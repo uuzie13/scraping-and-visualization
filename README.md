@@ -1,6 +1,6 @@
 # scraping-and-visualization
 crawling by python
-visualization by tableau
+visualization by tableau (https://public.tableau.com/profile/yj.choi#!/)
 
 contents
 ---------------------------
