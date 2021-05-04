@@ -1,4 +1,4 @@
-# scraping-and-visualization
+# visualization study
 crawling by python
 
 visualization by tableau (https://public.tableau.com/profile/yj.choi#!/)
@@ -19,3 +19,12 @@ https://public.tableau.com/profile/yj.choi#!/vizhome/_16198718179820/sheet2
 > 2019_library_stat.xls
 > 
 > seoul_library.ipynb 
+
+
+the History of Apple iPhone's Price Range
+
+https://public.tableau.com/profile/yj.choi#!/vizhome/HistoryofIphonePriceChanging/1
+
+> Number of available apps in the Apple App Store from 2008 to 2020 (cr. PocketGamer.biz) 
+>
+>Global Apple iPhone sales from 3rd quarter 2007 to 4th quarter 2018 (in million units) (cr.Apple)
