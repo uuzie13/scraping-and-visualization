@@ -12,6 +12,11 @@ https://public.tableau.com/profile/yj.choi#!/vizhome/easternHaneranetworkplot/1_
 > eastern Han dynasty network graph data prep.ipynb
 
 
+Naver Webtoon thumbnail's main color by cv2 pixel clustering
+
+> webtoon_thumbnail.ipynb
+
+
 visualizing the map of public library in Seoul
 
 https://public.tableau.com/profile/yj.choi#!/vizhome/_16198718179820/sheet2 
